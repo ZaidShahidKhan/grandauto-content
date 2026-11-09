@@ -1,0 +1,720 @@
+{
+  "version": 1,
+  "prelaunch": false,
+  "image": "",
+  "size": 2048,
+  "categories": [
+    {
+      "id": "area",
+      "label": "Areas",
+      "color": "#19E3D3"
+    },
+    {
+      "id": "collectible",
+      "label": "Collectibles",
+      "color": "#FF2E88"
+    },
+    {
+      "id": "hidden",
+      "label": "Hidden items",
+      "color": "#B57BFF"
+    },
+    {
+      "id": "weapon",
+      "label": "Weapons",
+      "color": "#FF5A5A"
+    },
+    {
+      "id": "vehicle",
+      "label": "Vehicles",
+      "color": "#FFB547"
+    },
+    {
+      "id": "shop",
+      "label": "Shops",
+      "color": "#5BE37D"
+    },
+    {
+      "id": "poi",
+      "label": "Points of interest",
+      "color": "#6FA8FF"
+    }
+  ],
+  "pins": [
+    {
+      "id": "area_vice_city",
+      "name": "Vice City",
+      "cat": "area",
+      "x": 546,
+      "y": 315,
+      "tip": "The big city on the south-east coast. Beaches, nightlife and the main story hub."
+    },
+    {
+      "id": "area_port_gellhorn",
+      "name": "Port Gellhorn",
+      "cat": "area",
+      "x": 305,
+      "y": 212,
+      "tip": "Run-down port town in the north-west of Leonida."
+    },
+    {
+      "id": "area_ambrosia",
+      "name": "Ambrosia",
+      "cat": "area",
+      "x": 443,
+      "y": 238,
+      "tip": "Inland industrial town in central Leonida, known for its sugar refinery."
+    },
+    {
+      "id": "area_lake",
+      "name": "Lake Leonida",
+      "cat": "area",
+      "x": 476,
+      "y": 193,
+      "tip": "The large lake in the middle of the state."
+    },
+    {
+      "id": "area_grassrivers",
+      "name": "Grassrivers",
+      "cat": "area",
+      "x": 431,
+      "y": 476,
+      "tip": "Wetlands and swamp west of Vice City. Airboats and alligators."
+    },
+    {
+      "id": "area_keys",
+      "name": "Leonida Keys",
+      "cat": "area",
+      "x": 398,
+      "y": 546,
+      "tip": "Chain of small islands to the south, linked by long bridges."
+    },
+    {
+      "id": "area_kalaga",
+      "name": "Mount Kalaga",
+      "cat": "area",
+      "x": 418,
+      "y": 154,
+      "tip": "Forest and hills in the north. Hunting, trails and the outdoors."
+    },
+    {
+      "id": "s_spaceship_part_1",
+      "name": "Spaceship part #1",
+      "cat": "collectible",
+      "x": 497.0,
+      "y": 358.9,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_2",
+      "name": "Spaceship part #2",
+      "cat": "collectible",
+      "x": 585.2,
+      "y": 373.5,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_3",
+      "name": "Spaceship part #3",
+      "cat": "collectible",
+      "x": 448.1,
+      "y": 188.7,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_4",
+      "name": "Spaceship part #4",
+      "cat": "collectible",
+      "x": 509.6,
+      "y": 324.9,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_5",
+      "name": "Spaceship part #5",
+      "cat": "collectible",
+      "x": 413.0,
+      "y": 556.0,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_6",
+      "name": "Spaceship part #6",
+      "cat": "collectible",
+      "x": 450.2,
+      "y": 427.4,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_7",
+      "name": "Spaceship part #7",
+      "cat": "collectible",
+      "x": 506.7,
+      "y": 434.1,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_8",
+      "name": "Spaceship part #8",
+      "cat": "collectible",
+      "x": 510.3,
+      "y": 373.3,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_9",
+      "name": "Spaceship part #9",
+      "cat": "collectible",
+      "x": 472.0,
+      "y": 229.2,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_spaceship_part_10",
+      "name": "Spaceship part #10",
+      "cat": "collectible",
+      "x": 428.7,
+      "y": 495.7,
+      "tip": "Glowing ship part. Walk into it to collect.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_1",
+      "name": "Letter scrap #1",
+      "cat": "collectible",
+      "x": 599.5,
+      "y": 321.7,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_2",
+      "name": "Letter scrap #2",
+      "cat": "collectible",
+      "x": 329.6,
+      "y": 245.4,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_3",
+      "name": "Letter scrap #3",
+      "cat": "collectible",
+      "x": 358.9,
+      "y": 244.2,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_4",
+      "name": "Letter scrap #4",
+      "cat": "collectible",
+      "x": 337.3,
+      "y": 249.3,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_5",
+      "name": "Letter scrap #5",
+      "cat": "collectible",
+      "x": 508.1,
+      "y": 303.0,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_6",
+      "name": "Letter scrap #6",
+      "cat": "collectible",
+      "x": 513.1,
+      "y": 347.4,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_7",
+      "name": "Letter scrap #7",
+      "cat": "collectible",
+      "x": 322.3,
+      "y": 567.5,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_8",
+      "name": "Letter scrap #8",
+      "cat": "collectible",
+      "x": 508.6,
+      "y": 221.8,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_9",
+      "name": "Letter scrap #9",
+      "cat": "collectible",
+      "x": 457.2,
+      "y": 511.8,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_letter_scrap_10",
+      "name": "Letter scrap #10",
+      "cat": "collectible",
+      "x": 383.6,
+      "y": 164.9,
+      "tip": "Torn page stuck to a wall or post.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_1",
+      "name": "Submarine part #1",
+      "cat": "collectible",
+      "x": 419.9,
+      "y": 354.4,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_2",
+      "name": "Submarine part #2",
+      "cat": "collectible",
+      "x": 586.1,
+      "y": 299.4,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_3",
+      "name": "Submarine part #3",
+      "cat": "collectible",
+      "x": 438.9,
+      "y": 559.1,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_4",
+      "name": "Submarine part #4",
+      "cat": "collectible",
+      "x": 535.0,
+      "y": 280.2,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_5",
+      "name": "Submarine part #5",
+      "cat": "collectible",
+      "x": 322.0,
+      "y": 237.6,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_submarine_part_6",
+      "name": "Submarine part #6",
+      "cat": "collectible",
+      "x": 457.2,
+      "y": 146.4,
+      "tip": "On the sea floor. Needs a sub or diving gear.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_1",
+      "name": "Nuclear waste barrel #1",
+      "cat": "hidden",
+      "x": 314.2,
+      "y": 272.9,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_2",
+      "name": "Nuclear waste barrel #2",
+      "cat": "hidden",
+      "x": 467.3,
+      "y": 499.6,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_3",
+      "name": "Nuclear waste barrel #3",
+      "cat": "hidden",
+      "x": 503.8,
+      "y": 305.2,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_4",
+      "name": "Nuclear waste barrel #4",
+      "cat": "hidden",
+      "x": 441.0,
+      "y": 538.3,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_5",
+      "name": "Nuclear waste barrel #5",
+      "cat": "hidden",
+      "x": 505.6,
+      "y": 301.7,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_nuclear_waste_barrel_6",
+      "name": "Nuclear waste barrel #6",
+      "cat": "hidden",
+      "x": 558.4,
+      "y": 304.8,
+      "tip": "Floating underwater near the coast.",
+      "sample": true
+    },
+    {
+      "id": "s_peyote_plant_1",
+      "name": "Peyote plant #1",
+      "cat": "hidden",
+      "x": 448.1,
+      "y": 546.7,
+      "tip": "Small plant on the ground. Eat it for a trip.",
+      "sample": true
+    },
+    {
+      "id": "s_peyote_plant_2",
+      "name": "Peyote plant #2",
+      "cat": "hidden",
+      "x": 557.1,
+      "y": 318.3,
+      "tip": "Small plant on the ground. Eat it for a trip.",
+      "sample": true
+    },
+    {
+      "id": "s_peyote_plant_3",
+      "name": "Peyote plant #3",
+      "cat": "hidden",
+      "x": 586.4,
+      "y": 298.5,
+      "tip": "Small plant on the ground. Eat it for a trip.",
+      "sample": true
+    },
+    {
+      "id": "s_peyote_plant_4",
+      "name": "Peyote plant #4",
+      "cat": "hidden",
+      "x": 524.1,
+      "y": 338.2,
+      "tip": "Small plant on the ground. Eat it for a trip.",
+      "sample": true
+    },
+    {
+      "id": "s_peyote_plant_5",
+      "name": "Peyote plant #5",
+      "cat": "hidden",
+      "x": 502.4,
+      "y": 315.8,
+      "tip": "Small plant on the ground. Eat it for a trip.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_1",
+      "name": "Weapon pickup #1",
+      "cat": "weapon",
+      "x": 603.7,
+      "y": 344.5,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_2",
+      "name": "Weapon pickup #2",
+      "cat": "weapon",
+      "x": 504.5,
+      "y": 333.2,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_3",
+      "name": "Weapon pickup #3",
+      "cat": "weapon",
+      "x": 462.3,
+      "y": 512.9,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_4",
+      "name": "Weapon pickup #4",
+      "cat": "weapon",
+      "x": 523.0,
+      "y": 307.6,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_5",
+      "name": "Weapon pickup #5",
+      "cat": "weapon",
+      "x": 453.0,
+      "y": 439.6,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_6",
+      "name": "Weapon pickup #6",
+      "cat": "weapon",
+      "x": 499.1,
+      "y": 310.4,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_7",
+      "name": "Weapon pickup #7",
+      "cat": "weapon",
+      "x": 601.2,
+      "y": 323.8,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_weapon_pickup_8",
+      "name": "Weapon pickup #8",
+      "cat": "weapon",
+      "x": 461.8,
+      "y": 513.9,
+      "tip": "Free gun or ammo lying on the ground.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_1",
+      "name": "Rare car spawn #1",
+      "cat": "vehicle",
+      "x": 572.9,
+      "y": 301.2,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_2",
+      "name": "Rare car spawn #2",
+      "cat": "vehicle",
+      "x": 510.4,
+      "y": 356.2,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_3",
+      "name": "Rare car spawn #3",
+      "cat": "vehicle",
+      "x": 555.3,
+      "y": 302.5,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_4",
+      "name": "Rare car spawn #4",
+      "cat": "vehicle",
+      "x": 570.3,
+      "y": 329.4,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_5",
+      "name": "Rare car spawn #5",
+      "cat": "vehicle",
+      "x": 496.2,
+      "y": 337.1,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_6",
+      "name": "Rare car spawn #6",
+      "cat": "vehicle",
+      "x": 425.6,
+      "y": 546.5,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_7",
+      "name": "Rare car spawn #7",
+      "cat": "vehicle",
+      "x": 396.4,
+      "y": 584.6,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_rare_car_spawn_8",
+      "name": "Rare car spawn #8",
+      "cat": "vehicle",
+      "x": 488.1,
+      "y": 327.6,
+      "tip": "A rare car parks here at times.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_0",
+      "name": "Ammu-Nation",
+      "cat": "shop",
+      "x": 449.1,
+      "y": 444.8,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_1",
+      "name": "Ammu-Nation",
+      "cat": "shop",
+      "x": 524.1,
+      "y": 302.7,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_2",
+      "name": "Los Santos Customs",
+      "cat": "shop",
+      "x": 554.5,
+      "y": 293.7,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_3",
+      "name": "Los Santos Customs",
+      "cat": "shop",
+      "x": 306.1,
+      "y": 275.9,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_4",
+      "name": "Barber shop",
+      "cat": "shop",
+      "x": 513.3,
+      "y": 311.4,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_5",
+      "name": "Tattoo parlour",
+      "cat": "shop",
+      "x": 390.2,
+      "y": 584.2,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_6",
+      "name": "Clothes store",
+      "cat": "shop",
+      "x": 590.3,
+      "y": 298.5,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_shop_7",
+      "name": "Clothes store",
+      "cat": "shop",
+      "x": 551.8,
+      "y": 294.1,
+      "tip": "Shop. Buy, upgrade or change your look.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_observatory",
+      "name": "Observatory",
+      "cat": "poi",
+      "x": 412.6,
+      "y": 498.9,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_film_studio",
+      "name": "Film studio",
+      "cat": "poi",
+      "x": 335.0,
+      "y": 250.1,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_pier_with_ferris_wheel",
+      "name": "Pier with Ferris wheel",
+      "cat": "poi",
+      "x": 575.5,
+      "y": 243.1,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_lighthouse",
+      "name": "Lighthouse",
+      "cat": "poi",
+      "x": 503.8,
+      "y": 309.3,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_mountain_summit",
+      "name": "Mountain summit",
+      "cat": "poi",
+      "x": 422.0,
+      "y": 488.9,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    },
+    {
+      "id": "s_poi_airfield",
+      "name": "Airfield",
+      "cat": "poi",
+      "x": 342.2,
+      "y": 194.0,
+      "tip": "Worth a visit for the view.",
+      "sample": true
+    }
+  ],
+  "tiles": {
+    "url": "assets/tiles/{z}/{x}/{y}.png",
+    "credit": "Map: State of Leonida community map (YANIS v17), used with permission",
+    "unitPx": 512,
+    "zoomOffset": 0,
+    "minZoom": 0,
+    "maxNativeZoom": 4,
+    "maxZoom": 6,
+    "bounds": [
+      189,
+      0,
+      658,
+      627
+    ]
+  },
+  "pinSpace": "tiles"
+}

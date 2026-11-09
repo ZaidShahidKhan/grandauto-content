@@ -1,0 +1,903 @@
+{
+ "version": 2,
+ "categories": [
+  {
+   "id": "story",
+   "label": "Story missions",
+   "icon": "story",
+   "sample": true,
+   "items": [
+    {
+     "id": "story_prologue",
+     "name": "Prologue",
+     "tip": "Michael and Trevor: a bank job in the snow goes badly wrong. The game starts here."
+    },
+    {
+     "id": "story_franklin_and_lamar",
+     "name": "Franklin and Lamar",
+     "tip": "Franklin and Lamar race each other to repo two sports cars."
+    },
+    {
+     "id": "story_repossession",
+     "name": "Repossession",
+     "tip": "Help Lamar repo a motorbike for Simeon. Expect a fight."
+    },
+    {
+     "id": "story_complications",
+     "name": "Complications",
+     "tip": "Franklin repos a car from a big house in the hills and meets Michael."
+    },
+    {
+     "id": "story_chop",
+     "name": "Chop",
+     "tip": "Chase down a gang member with Chop the dog."
+    },
+    {
+     "id": "story_father_son",
+     "name": "Father/Son",
+     "tip": "Michael chases a stolen yacht on the highway to save his son."
+    },
+    {
+     "id": "story_marriage_counseling",
+     "name": "Marriage Counseling",
+     "tip": "Michael and Franklin chase a man and pull down a house on the hillside."
+    },
+    {
+     "id": "story_daddy_s_little_girl",
+     "name": "Daddy's Little Girl",
+     "tip": "Michael races his daughter on bikes and in the sea."
+    },
+    {
+     "id": "story_friend_request",
+     "name": "Friend Request",
+     "tip": "Michael deals with his son's online life. Short and funny."
+    },
+    {
+     "id": "story_the_long_stretch",
+     "name": "The Long Stretch",
+     "tip": "Franklin backs up Lamar at a deal that turns into a shootout."
+    },
+    {
+     "id": "story_casing_the_jewel_store",
+     "name": "Casing the Jewel Store",
+     "tip": "Scout the jewellery store with smart glasses before the heist."
+    },
+    {
+     "id": "story_bugstars_equipment",
+     "name": "Bugstars Equipment",
+     "tip": "Steal a pest-control van and gear to use as a disguise."
+    },
+    {
+     "id": "story_the_jewel_store_job",
+     "name": "The Jewel Store Job",
+     "tip": "The first big heist: rob the jewellery store, then escape."
+    },
+    {
+     "id": "story_mr_philips",
+     "name": "Mr. Philips",
+     "tip": "Meet Trevor in the desert. He takes on the bikers."
+    },
+    {
+     "id": "story_trevor_philips_industries",
+     "name": "Trevor Philips Industries",
+     "tip": "Trevor attacks a rival gang's base."
+    },
+    {
+     "id": "story_nervous_ron",
+     "name": "Nervous Ron",
+     "tip": "Trevor and Ron take out a rival gang from afar."
+    },
+    {
+     "id": "story_crystal_maze",
+     "name": "Crystal Maze",
+     "tip": "Trevor blows up a gang's meth lab."
+    },
+    {
+     "id": "story_friends_reunited",
+     "name": "Friends Reunited",
+     "tip": "Trevor tracks Michael down in the city."
+    },
+    {
+     "id": "story_fame_or_shame",
+     "name": "Fame or Shame",
+     "tip": "Michael and Trevor chase a man at a TV talent show."
+    },
+    {
+     "id": "story_dead_man_walking",
+     "name": "Dead Man Walking",
+     "tip": "Michael, Trevor and Franklin pull a body out of a morgue."
+    },
+    {
+     "id": "story_three_s_company",
+     "name": "Three's Company",
+     "tip": "All three grab a target from a building. Rappel, snipe and chase."
+    },
+    {
+     "id": "story_by_the_book",
+     "name": "By the Book",
+     "tip": "A dark interrogation mission with Trevor and Michael."
+    },
+    {
+     "id": "story_hood_safari",
+     "name": "Hood Safari",
+     "tip": "Franklin and Trevor visit the hood and things get loud."
+    },
+    {
+     "id": "story_scouting_the_port",
+     "name": "Scouting the Port",
+     "tip": "Trevor scouts the docks while doing crane work."
+    },
+    {
+     "id": "story_minisub",
+     "name": "Minisub",
+     "tip": "Steal a mini submarine for the port heist."
+    },
+    {
+     "id": "story_the_merryweather_heist",
+     "name": "The Merryweather Heist",
+     "tip": "Steal cargo from a ship or a sub. You pick the approach."
+    },
+    {
+     "id": "story_blitz_play",
+     "name": "Blitz Play",
+     "tip": "Rob an armoured truck with a garbage-truck roadblock."
+    },
+    {
+     "id": "story_caida_libre",
+     "name": "Caida Libre",
+     "tip": "Michael chases a plane from the sky."
+    },
+    {
+     "id": "story_deep_inside",
+     "name": "Deep Inside",
+     "tip": "Michael steals a car from a film set."
+    },
+    {
+     "id": "story_paleto_score_setup",
+     "name": "Paleto Score Setup",
+     "tip": "Plan the rural bank job and grab the gear."
+    },
+    {
+     "id": "story_the_paleto_score",
+     "name": "The Paleto Score",
+     "spoiler": true,
+     "tip": "Rob the rural bank in heavy armour and fight your way out."
+    },
+    {
+     "id": "story_predator",
+     "name": "Predator",
+     "spoiler": true,
+     "tip": "Hunt a target with a helicopter and night vision."
+    },
+    {
+     "id": "story_monkey_business",
+     "name": "Monkey Business",
+     "spoiler": true,
+     "tip": "Steal a chemical weapon from a lab with a cargo plane."
+    },
+    {
+     "id": "story_hang_ten",
+     "name": "Hang Ten",
+     "spoiler": true,
+     "tip": "Franklin follows up a lead on the big score."
+    },
+    {
+     "id": "story_surveying_the_score",
+     "name": "Surveying the Score",
+     "spoiler": true,
+     "tip": "Scout the gold vault for the final heist."
+    },
+    {
+     "id": "story_the_bureau_raid",
+     "name": "The Bureau Raid",
+     "spoiler": true,
+     "tip": "Break into a government office to steal files."
+    },
+    {
+     "id": "story_the_wrap_up",
+     "name": "The Wrap Up",
+     "spoiler": true,
+     "tip": "A huge shootout at a building site."
+    },
+    {
+     "id": "story_lamar_down",
+     "name": "Lamar Down",
+     "spoiler": true,
+     "tip": "Save Lamar from a sawmill ambush."
+    },
+    {
+     "id": "story_meltdown",
+     "name": "Meltdown",
+     "spoiler": true,
+     "tip": "Michael's plot with a film producer ends hard."
+    },
+    {
+     "id": "story_the_big_score",
+     "name": "The Big Score",
+     "spoiler": true,
+     "tip": "The final heist: steal tons of gold. Pick obvious or subtle."
+    },
+    {
+     "id": "story_something_sensible",
+     "name": "Something Sensible",
+     "spoiler": true,
+     "tip": "Ending A: Franklin has to deal with Trevor."
+    },
+    {
+     "id": "story_the_time_s_come",
+     "name": "The Time's Come",
+     "spoiler": true,
+     "tip": "Ending B: Franklin has to deal with Michael."
+    },
+    {
+     "id": "story_the_third_way",
+     "name": "The Third Way",
+     "spoiler": true,
+     "tip": "Ending C (Deathwish): the three team up against everyone."
+    }
+   ]
+  },
+  {
+   "id": "side",
+   "label": "Side missions",
+   "icon": "side",
+   "sample": true,
+   "items": [
+    {
+     "id": "side_grass_roots",
+     "name": "Grass Roots",
+     "tip": "Help Barry with his weed campaign. Leads to wild trips."
+    },
+    {
+     "id": "side_pulling_favors",
+     "name": "Pulling Favors",
+     "tip": "Snap celebrity photos for a paparazzo."
+    },
+    {
+     "id": "side_exercising_demons",
+     "name": "Exercising Demons",
+     "tip": "Race a fitness fanatic: running, cycling and swimming."
+    },
+    {
+     "id": "side_shift_work",
+     "name": "Shift Work",
+     "tip": "Do towing jobs for Tonya."
+    },
+    {
+     "id": "side_seeking_the_truth",
+     "name": "Seeking the Truth",
+     "tip": "Join a strange cult and follow its odd tasks."
+    },
+    {
+     "id": "side_paparazzo",
+     "name": "Paparazzo",
+     "tip": "Chase celebrities with a camera for big shots."
+    },
+    {
+     "id": "side_the_last_one",
+     "name": "The Last One",
+     "tip": "Hunt a legendary creature in the woods. Needs 100%."
+    },
+    {
+     "id": "side_rampage",
+     "name": "Rampage",
+     "tip": "Trevor goes on timed rampages against gangs."
+    },
+    {
+     "id": "side_nigel_and_mrs_thornhill",
+     "name": "Nigel and Mrs. Thornhill",
+     "tip": "Help two superfans grab celebrity items."
+    },
+    {
+     "id": "side_fanatic",
+     "name": "Fanatic",
+     "tip": "More races against the fitness fanatic."
+    },
+    {
+     "id": "side_tonya",
+     "name": "Tonya",
+     "tip": "Tow cars for Tonya when her boyfriend is out."
+    },
+    {
+     "id": "side_hao",
+     "name": "Hao",
+     "tip": "Street races for a tuner shop owner."
+    },
+    {
+     "id": "side_barry",
+     "name": "Barry",
+     "tip": "Barry needs help with his weed campaign."
+    },
+    {
+     "id": "side_josh",
+     "name": "Josh",
+     "tip": "A real-estate agent asks Trevor for a hand. It backfires."
+    },
+    {
+     "id": "side_maude",
+     "name": "Maude",
+     "tip": "Catch bail jumpers for Maude: alive pays more."
+    }
+   ]
+  },
+  {
+   "id": "collectibles",
+   "label": "Collectibles",
+   "icon": "collectibles",
+   "sample": true,
+   "items": [
+    {
+     "id": "s_spaceship_part_1",
+     "name": "Spaceship part #1",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_1"
+    },
+    {
+     "id": "s_spaceship_part_2",
+     "name": "Spaceship part #2",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_2"
+    },
+    {
+     "id": "s_spaceship_part_3",
+     "name": "Spaceship part #3",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_3"
+    },
+    {
+     "id": "s_spaceship_part_4",
+     "name": "Spaceship part #4",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_4"
+    },
+    {
+     "id": "s_spaceship_part_5",
+     "name": "Spaceship part #5",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_5"
+    },
+    {
+     "id": "s_spaceship_part_6",
+     "name": "Spaceship part #6",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_6"
+    },
+    {
+     "id": "s_spaceship_part_7",
+     "name": "Spaceship part #7",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_7"
+    },
+    {
+     "id": "s_spaceship_part_8",
+     "name": "Spaceship part #8",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_8"
+    },
+    {
+     "id": "s_spaceship_part_9",
+     "name": "Spaceship part #9",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_9"
+    },
+    {
+     "id": "s_spaceship_part_10",
+     "name": "Spaceship part #10",
+     "tip": "Glowing ship part. Walk into it to collect.",
+     "pinId": "s_spaceship_part_10"
+    },
+    {
+     "id": "s_letter_scrap_1",
+     "name": "Letter scrap #1",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_1"
+    },
+    {
+     "id": "s_letter_scrap_2",
+     "name": "Letter scrap #2",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_2"
+    },
+    {
+     "id": "s_letter_scrap_3",
+     "name": "Letter scrap #3",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_3"
+    },
+    {
+     "id": "s_letter_scrap_4",
+     "name": "Letter scrap #4",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_4"
+    },
+    {
+     "id": "s_letter_scrap_5",
+     "name": "Letter scrap #5",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_5"
+    },
+    {
+     "id": "s_letter_scrap_6",
+     "name": "Letter scrap #6",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_6"
+    },
+    {
+     "id": "s_letter_scrap_7",
+     "name": "Letter scrap #7",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_7"
+    },
+    {
+     "id": "s_letter_scrap_8",
+     "name": "Letter scrap #8",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_8"
+    },
+    {
+     "id": "s_letter_scrap_9",
+     "name": "Letter scrap #9",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_9"
+    },
+    {
+     "id": "s_letter_scrap_10",
+     "name": "Letter scrap #10",
+     "tip": "Torn page stuck to a wall or post.",
+     "pinId": "s_letter_scrap_10"
+    },
+    {
+     "id": "s_submarine_part_1",
+     "name": "Submarine part #1",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_1"
+    },
+    {
+     "id": "s_submarine_part_2",
+     "name": "Submarine part #2",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_2"
+    },
+    {
+     "id": "s_submarine_part_3",
+     "name": "Submarine part #3",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_3"
+    },
+    {
+     "id": "s_submarine_part_4",
+     "name": "Submarine part #4",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_4"
+    },
+    {
+     "id": "s_submarine_part_5",
+     "name": "Submarine part #5",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_5"
+    },
+    {
+     "id": "s_submarine_part_6",
+     "name": "Submarine part #6",
+     "tip": "On the sea floor. Needs a sub or diving gear.",
+     "pinId": "s_submarine_part_6"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_1",
+     "name": "Nuclear waste barrel #1",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_1"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_2",
+     "name": "Nuclear waste barrel #2",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_2"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_3",
+     "name": "Nuclear waste barrel #3",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_3"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_4",
+     "name": "Nuclear waste barrel #4",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_4"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_5",
+     "name": "Nuclear waste barrel #5",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_5"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_6",
+     "name": "Nuclear waste barrel #6",
+     "tip": "Floating underwater near the coast.",
+     "pinId": "s_nuclear_waste_barrel_6"
+    },
+    {
+     "id": "s_peyote_plant_1",
+     "name": "Peyote plant #1",
+     "tip": "Small plant on the ground. Eat it for a trip.",
+     "pinId": "s_peyote_plant_1"
+    },
+    {
+     "id": "s_peyote_plant_2",
+     "name": "Peyote plant #2",
+     "tip": "Small plant on the ground. Eat it for a trip.",
+     "pinId": "s_peyote_plant_2"
+    },
+    {
+     "id": "s_peyote_plant_3",
+     "name": "Peyote plant #3",
+     "tip": "Small plant on the ground. Eat it for a trip.",
+     "pinId": "s_peyote_plant_3"
+    },
+    {
+     "id": "s_peyote_plant_4",
+     "name": "Peyote plant #4",
+     "tip": "Small plant on the ground. Eat it for a trip.",
+     "pinId": "s_peyote_plant_4"
+    },
+    {
+     "id": "s_peyote_plant_5",
+     "name": "Peyote plant #5",
+     "tip": "Small plant on the ground. Eat it for a trip.",
+     "pinId": "s_peyote_plant_5"
+    }
+   ]
+  },
+  {
+   "id": "activities",
+   "label": "Activities",
+   "icon": "activities",
+   "sample": true,
+   "items": [
+    {
+     "id": "act_golf",
+     "name": "Golf",
+     "tip": "Play 9 holes at the country club."
+    },
+    {
+     "id": "act_tennis",
+     "name": "Tennis",
+     "tip": "Play matches on courts around the city."
+    },
+    {
+     "id": "act_darts",
+     "name": "Darts",
+     "tip": "Play darts in country bars."
+    },
+    {
+     "id": "act_yoga",
+     "name": "Yoga",
+     "tip": "Michael can do yoga to calm down."
+    },
+    {
+     "id": "act_triathlon",
+     "name": "Triathlon",
+     "tip": "Swim, cycle and run long races."
+    },
+    {
+     "id": "act_street_races",
+     "name": "Street races",
+     "tip": "Race cars or bikes through the streets."
+    },
+    {
+     "id": "act_off_road_races",
+     "name": "Off-road races",
+     "tip": "Race through dirt and hills."
+    },
+    {
+     "id": "act_sea_races",
+     "name": "Sea races",
+     "tip": "Race jet skis and boats."
+    },
+    {
+     "id": "act_flight_school",
+     "name": "Flight school",
+     "tip": "Learn to fly with timed lessons. Earn gold medals."
+    },
+    {
+     "id": "act_shooting_range",
+     "name": "Shooting range",
+     "tip": "Timed shooting challenges at the gun shop range."
+    },
+    {
+     "id": "act_hunting",
+     "name": "Hunting",
+     "tip": "Hunt animals in the hills for cash and photos."
+    },
+    {
+     "id": "act_bail_bonds",
+     "name": "Bail bonds",
+     "tip": "Bring in bail jumpers for rewards."
+    },
+    {
+     "id": "act_towing",
+     "name": "Towing",
+     "tip": "Tow badly parked cars for cash."
+    },
+    {
+     "id": "act_taxi_fares",
+     "name": "Taxi fares",
+     "tip": "Drive passengers in a taxi."
+    },
+    {
+     "id": "act_parachuting",
+     "name": "Parachuting",
+     "tip": "Jump from peaks and planes, land on the target."
+    },
+    {
+     "id": "act_arms_trafficking",
+     "name": "Arms trafficking",
+     "tip": "Deliver weapons by plane or truck for Trevor."
+    },
+    {
+     "id": "act_stunt_jumps",
+     "name": "Stunt jumps",
+     "tip": "Hit the ramps and land the jumps around the map."
+    },
+    {
+     "id": "act_under_the_bridge",
+     "name": "Under the bridge",
+     "tip": "Fly a plane under every bridge."
+    },
+    {
+     "id": "act_knife_flights",
+     "name": "Knife flights",
+     "tip": "Fly sideways through narrow gaps."
+    },
+    {
+     "id": "act_stock_market",
+     "name": "Stock market",
+     "tip": "Buy and sell shares. Missions move prices."
+    }
+   ]
+  },
+  {
+   "id": "trophies",
+   "label": "Trophies",
+   "icon": "trophies",
+   "sample": true,
+   "items": [
+    {
+     "id": "trophy_welcome_to_los_santos",
+     "name": "Welcome to Los Santos"
+    },
+    {
+     "id": "trophy_a_friendship_resurrected",
+     "name": "A Friendship Resurrected"
+    },
+    {
+     "id": "trophy_a_fair_day_s_pay",
+     "name": "A Fair Day's Pay"
+    },
+    {
+     "id": "trophy_the_moment_of_truth",
+     "name": "The Moment of Truth"
+    },
+    {
+     "id": "trophy_to_live_or_die_in_los_santos",
+     "name": "To Live or Die in Los Santos"
+    },
+    {
+     "id": "trophy_diamond_hard",
+     "name": "Diamond Hard",
+     "tip": "Finish the jewellery store heist."
+    },
+    {
+     "id": "trophy_subversive",
+     "name": "Subversive"
+    },
+    {
+     "id": "trophy_blitzed",
+     "name": "Blitzed"
+    },
+    {
+     "id": "trophy_small_town_big_job",
+     "name": "Small Town, Big Job",
+     "tip": "Finish the rural bank heist."
+    },
+    {
+     "id": "trophy_the_government_gimps",
+     "name": "The Government Gimps"
+    },
+    {
+     "id": "trophy_the_big_one",
+     "name": "The Big One!",
+     "tip": "Finish the final heist."
+    },
+    {
+     "id": "trophy_solid_gold_baby",
+     "name": "Solid Gold, Baby!",
+     "tip": "Earn gold medals in story missions."
+    },
+    {
+     "id": "trophy_career_criminal",
+     "name": "Career Criminal",
+     "tip": "Reach 100% completion."
+    },
+    {
+     "id": "trophy_san_andreas_sightseer",
+     "name": "San Andreas Sightseer",
+     "tip": "Explore the whole map."
+    },
+    {
+     "id": "trophy_all_s_fare_in_love_and_war",
+     "name": "All's Fare in Love and War"
+    },
+    {
+     "id": "trophy_tp_industries_arms_race",
+     "name": "TP Industries Arms Race"
+    },
+    {
+     "id": "trophy_multi_disciplined",
+     "name": "Multi-Disciplined",
+     "tip": "Get gold in a flight school lesson."
+    },
+    {
+     "id": "trophy_from_beyond_the_stars",
+     "name": "From Beyond the Stars",
+     "tip": "Collect every spaceship part."
+    },
+    {
+     "id": "trophy_a_mystery_solved",
+     "name": "A Mystery, Solved",
+     "tip": "Find every letter scrap and solve the murder."
+    },
+    {
+     "id": "trophy_waste_management",
+     "name": "Waste Management",
+     "tip": "Collect every nuclear waste barrel."
+    },
+    {
+     "id": "trophy_red_mist",
+     "name": "Red Mist"
+    },
+    {
+     "id": "trophy_show_off",
+     "name": "Show Off",
+     "tip": "Land every stunt jump."
+    },
+    {
+     "id": "trophy_kifflom",
+     "name": "Kifflom!",
+     "tip": "Finish the cult missions to the end."
+    },
+    {
+     "id": "trophy_three_man_army",
+     "name": "Three Man Army",
+     "tip": "Survive a 3-star wanted level with all three characters."
+    },
+    {
+     "id": "trophy_out_of_your_depth",
+     "name": "Out of Your Depth",
+     "tip": "Explore the ocean floor."
+    },
+    {
+     "id": "trophy_altruist_acolyte",
+     "name": "Altruist Acolyte",
+     "tip": "Deliver someone to the cult."
+    },
+    {
+     "id": "trophy_a_lot_of_cheddar",
+     "name": "A Lot of Cheddar"
+    },
+    {
+     "id": "trophy_trading_pure_alpha",
+     "name": "Trading Pure Alpha"
+    },
+    {
+     "id": "trophy_pimp_my_sidearm",
+     "name": "Pimp My Sidearm"
+    },
+    {
+     "id": "trophy_wanted_alive_or_alive",
+     "name": "Wanted: Alive or Alive"
+    },
+    {
+     "id": "trophy_los_santos_customs",
+     "name": "Los Santos Customs"
+    },
+    {
+     "id": "trophy_close_shave",
+     "name": "Close Shave",
+     "tip": "Finish every under-the-bridge and knife flight."
+    },
+    {
+     "id": "trophy_off_the_plane",
+     "name": "Off the Plane"
+    },
+    {
+     "id": "trophy_three_bit_gangster",
+     "name": "Three-Bit Gangster"
+    },
+    {
+     "id": "trophy_making_moves",
+     "name": "Making Moves"
+    },
+    {
+     "id": "trophy_above_the_law",
+     "name": "Above the Law"
+    },
+    {
+     "id": "trophy_numero_uno",
+     "name": "Numero Uno"
+    },
+    {
+     "id": "trophy_the_midnight_club",
+     "name": "The Midnight Club"
+    },
+    {
+     "id": "trophy_unnatural_selection",
+     "name": "Unnatural Selection"
+    },
+    {
+     "id": "trophy_backseat_driver",
+     "name": "Backseat Driver"
+    },
+    {
+     "id": "trophy_run_like_the_wind",
+     "name": "Run Like The Wind"
+    },
+    {
+     "id": "trophy_clean_sweep",
+     "name": "Clean Sweep"
+    },
+    {
+     "id": "trophy_decorated",
+     "name": "Decorated"
+    },
+    {
+     "id": "trophy_stick_up_kid",
+     "name": "Stick Up Kid"
+    },
+    {
+     "id": "trophy_enjoy_your_stay",
+     "name": "Enjoy Your Stay"
+    },
+    {
+     "id": "trophy_crew_cut",
+     "name": "Crew Cut"
+    },
+    {
+     "id": "trophy_full_refund",
+     "name": "Full Refund"
+    },
+    {
+     "id": "trophy_dialling_digits",
+     "name": "Dialling Digits"
+    },
+    {
+     "id": "trophy_american_dream",
+     "name": "American Dream"
+    },
+    {
+     "id": "trophy_a_new_perspective",
+     "name": "A New Perspective"
+    },
+    {
+     "id": "trophy_be_prepared",
+     "name": "Be Prepared"
+    },
+    {
+     "id": "trophy_in_the_name_of_science",
+     "name": "In the Name of Science"
+    },
+    {
+     "id": "trophy_dead_presidents",
+     "name": "Dead Presidents"
+    },
+    {
+     "id": "trophy_parachute_professional",
+     "name": "Parachute Professional",
+     "tip": "Land on target in every parachute jump."
+    }
+   ]
+  }
+ ]
+}
