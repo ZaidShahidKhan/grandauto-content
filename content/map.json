@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "prelaunch": false,
   "image": "",
   "size": 2048,
@@ -38,6 +38,26 @@
       "id": "poi",
       "label": "Points of interest",
       "color": "#6FA8FF"
+    },
+    {
+      "id": "police",
+      "label": "Police stations",
+      "color": "#4F8BFF"
+    },
+    {
+      "id": "hospital",
+      "label": "Hospitals",
+      "color": "#FF4D5E"
+    },
+    {
+      "id": "carwash",
+      "label": "Car washes",
+      "color": "#29D3E8"
+    },
+    {
+      "id": "gas",
+      "label": "Gas stations",
+      "color": "#FFB547"
     }
   ],
   "pins": [
