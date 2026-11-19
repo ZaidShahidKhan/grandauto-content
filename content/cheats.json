@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "cheats": [
   {
    "id": "gta3_full_health",
@@ -4539,6 +4539,380 @@
    "warning": "Disables trophies for this session",
    "pc": "TRASHED",
    "phone": "1-999-8727433"
+  },
+  {
+   "id": "vi_money",
+   "game": "vi",
+   "name": "$250,000",
+   "effect": "Adds $250,000 to your cash",
+   "category": "world",
+   "combo": [
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "UP",
+    "LEFT",
+    "DOWN",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Finish the story. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_unlimited_focus",
+   "game": "vi",
+   "name": "Unlimited Focus",
+   "effect": "Focus never runs out",
+   "category": "player",
+   "combo": [
+    "DOWN",
+    "UP",
+    "UP",
+    "DOWN",
+    "UP",
+    "DOWN",
+    "UP",
+    "DOWN",
+    "UP",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Finish the story. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_attack_force",
+   "game": "vi",
+   "name": "Attack Force",
+   "effect": "Your attacks knock enemies flying",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "RIGHT",
+    "DOWN",
+    "DOWN",
+    "UP",
+    "DOWN"
+   ],
+   "warning": "Unlock: Finish the story. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_body_armor",
+   "game": "vi",
+   "name": "Body Armor",
+   "effect": "Gives full body armor",
+   "category": "player",
+   "combo": [
+    "DOWN",
+    "UP",
+    "LEFT",
+    "UP",
+    "UP",
+    "UP",
+    "UP",
+    "UP",
+    "DOWN",
+    "DOWN"
+   ],
+   "warning": "Unlock: Do 100 workouts. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_raise_heat",
+   "game": "vi",
+   "name": "Raise Heat Level",
+   "effect": "Raises your heat (wanted) level",
+   "category": "world",
+   "combo": [
+    "LEFT",
+    "DOWN",
+    "RIGHT",
+    "DOWN",
+    "UP",
+    "DOWN",
+    "UP"
+   ],
+   "warning": "Unlock: Lose a 3-star wanted level 25 times. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_max_ammo",
+   "game": "vi",
+   "name": "Max Ammo",
+   "effect": "Fills ammo for every weapon",
+   "category": "weapons",
+   "combo": [
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "LEFT",
+    "UP",
+    "UP",
+    "DOWN",
+    "LEFT"
+   ],
+   "warning": "Unlock: Win 25 bronze shooting-range medals. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_infinite_ammo",
+   "game": "vi",
+   "name": "Infinite Ammo",
+   "effect": "Ammo never runs out",
+   "category": "weapons",
+   "combo": [
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "LEFT",
+    "UP",
+    "DOWN",
+    "DOWN",
+    "DOWN"
+   ],
+   "warning": "Unlock: Win 25 silver shooting-range medals. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_no_reload",
+   "game": "vi",
+   "name": "No Reload",
+   "effect": "Shoot without reloading",
+   "category": "weapons",
+   "combo": [
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "LEFT",
+    "UP",
+    "DOWN",
+    "DOWN",
+    "UP"
+   ],
+   "warning": "Unlock: Win 25 gold shooting-range medals. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_exploding_balls",
+   "game": "vi",
+   "name": "Exploding Balls",
+   "effect": "Thrown balls explode",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "RIGHT",
+    "DOWN",
+    "DOWN",
+    "UP",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Hit 20 enemies with explosive damage. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_vehicle_force",
+   "game": "vi",
+   "name": "Vehicle Force",
+   "effect": "Vehicles hit with huge force",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "UP",
+    "DOWN"
+   ],
+   "warning": "Unlock: Kill 25 enemies with a vehicle. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_cycle_weather",
+   "game": "vi",
+   "name": "Cycle Weather",
+   "effect": "Changes the weather",
+   "category": "world",
+   "combo": [
+    "DOWN",
+    "RIGHT",
+    "UP",
+    "DOWN",
+    "RIGHT",
+    "UP",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Check the Progress menu. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_boomazoom",
+   "game": "vi",
+   "name": "Spawn Maibatsu Boomazoom",
+   "effect": "Spawns the Maibatsu Boomazoom",
+   "category": "vehicles",
+   "combo": [
+    "LEFT",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "LEFT",
+    "UP",
+    "LEFT"
+   ],
+   "warning": "Unlock: Finish 5 shopping challenges. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_mtl_pumper",
+   "game": "vi",
+   "name": "Spawn MTL Pumper",
+   "effect": "Spawns the MTL Pumper fire truck",
+   "category": "vehicles",
+   "combo": [
+    "LEFT",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "RIGHT",
+    "RIGHT",
+    "UP"
+   ],
+   "warning": "Unlock: Check the Progress menu. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_hvy_bulldozer",
+   "game": "vi",
+   "name": "Spawn HVY Bulldozer",
+   "effect": "Spawns the HVY Bulldozer",
+   "category": "vehicles",
+   "combo": [
+    "LEFT",
+    "UP",
+    "RIGHT",
+    "DOWN",
+    "LEFT",
+    "RIGHT",
+    "RIGHT",
+    "DOWN"
+   ],
+   "warning": "Unlock: Discover it in the Progress menu. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_cataclysm",
+   "game": "vi",
+   "name": "Cataclysm Filter",
+   "effect": "Screen filter: Cataclysm",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "RIGHT",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "RIGHT",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Discover Martha's Vamos. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_dollhouse",
+   "game": "vi",
+   "name": "Dollhouse Filter",
+   "effect": "Screen filter: Dollhouse",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "RIGHT",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "DOWN",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Spend 8 hours with your partner. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "vi_faded_glory",
+   "game": "vi",
+   "name": "Faded Glory Filter",
+   "effect": "Screen filter: Faded Glory",
+   "category": "fun",
+   "combo": [
+    "DOWN",
+    "DOWN",
+    "UP",
+    "RIGHT",
+    "RIGHT",
+    "UP",
+    "LEFT",
+    "LEFT",
+    "LEFT",
+    "RIGHT"
+   ],
+   "warning": "Unlock: Rob 50 stores with your partner. Press Up to open the phone, hold L1 + R1 (LB + RB on Xbox), then enter the arrows.",
+   "verified": true,
+   "storyOnly": true,
+   "added": "2026-11-19"
   }
  ]
 }
