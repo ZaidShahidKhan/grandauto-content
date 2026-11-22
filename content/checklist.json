@@ -1,9 +1,948 @@
 {
- "version": 2,
+ "version": 3,
  "categories": [
   {
+   "id": "vi_story",
+   "label": "GTA 6 story missions",
+   "icon": "story",
+   "items": [
+    {
+     "id": "vi_story_prologue",
+     "name": "Prologue",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_gone_fishing",
+     "name": "Gone Fishing",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_gear_up",
+     "name": "Gear Up",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_just_a_scratch",
+     "name": "Just a Scratch",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_lab_fees",
+     "name": "Lab Fees",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_unwanted_attention",
+     "name": "Unwanted Attention",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_pipework",
+     "name": "Pipework",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_hey_arnold",
+     "name": "Hey Arnold!",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_island_dreams",
+     "name": "Island Dreams",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_feng_shui",
+     "name": "Feng Shui",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_coming_home",
+     "name": "Coming Home",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_buck_me",
+     "name": "Buck Me",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_clean_up_after_donnie",
+     "name": "Clean Up After Donnie",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_down_to_earth",
+     "name": "Down to Earth",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_clear_skies",
+     "name": "Clear Skies",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_day_release",
+     "name": "Day Release",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_swamped",
+     "name": "Swamped",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_don_gone",
+     "name": "Don Gone",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_recalibration",
+     "name": "Recalibration",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_tourist_trap",
+     "name": "Tourist Trap",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_home_sweet_home",
+     "name": "Home Sweet Home",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_discharge_time",
+     "name": "Discharge Time",
+     "tip": "Chapter 1: Just Like Paradise",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_what_s_in_the_bag",
+     "name": "What's in the Bag?",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_ambulance_chaser",
+     "name": "Ambulance Chaser",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_just_moved_in",
+     "name": "Just Moved In",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_girls_trip",
+     "name": "Girls' Trip",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_moses",
+     "name": "Moses",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_daily_driver",
+     "name": "Daily Driver",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_slam_dunk",
+     "name": "Slam Dunk",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_breakfast_run",
+     "name": "Breakfast Run",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_coffee_break",
+     "name": "Coffee Break",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_afternoon_delight",
+     "name": "Afternoon Delight",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_checking_out",
+     "name": "Checking Out",
+     "tip": "Chapter 2: Paradise Lost",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_welcome_to_vice_city",
+     "name": "Welcome to Vice City",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_dealer_s_choice",
+     "name": "Dealer's Choice",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_meet_the_heders",
+     "name": "Meet the Heders",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_dubious_provenance",
+     "name": "Dubious Provenance",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_mami_knows_best",
+     "name": "Mami Knows Best",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_south_leonida_real_estate",
+     "name": "South Leonida Real Estate",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_here_kitty_kitty",
+     "name": "Here, Kitty Kitty",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_car_service",
+     "name": "Car Service",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_top_billing",
+     "name": "Top Billing",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_boobie_time",
+     "name": "Boobie Time",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_first_impressions",
+     "name": "First Impressions",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_caught_slipping",
+     "name": "Caught Slipping",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_crosstown_traffic",
+     "name": "Crosstown Traffic",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_credit_check",
+     "name": "Credit Check",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_clonin_keys_makin_gs",
+     "name": "Clonin' Keys, Makin' GS",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_sinfrontera_national_bank",
+     "name": "Sinfrontera National Bank",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_security_expert",
+     "name": "Security Expert",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_ride_or_die",
+     "name": "Ride or Die",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_company_property",
+     "name": "Company Property",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_the_missing_link",
+     "name": "The Missing Link",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_safe_word",
+     "name": "Safe Word",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_cooties",
+     "name": "Cooties",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_bricked_up",
+     "name": "Bricked Up",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_hidden_charges",
+     "name": "Hidden Charges",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_the_cartel_heist",
+     "name": "The Cartel Heist",
+     "tip": "Chapter 3: Tits Ass Drug Money",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_ocean_beach",
+     "name": "Ocean Beach",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_another_life",
+     "name": "Another Life",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_company_cars",
+     "name": "Company Cars",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_lawyer_up",
+     "name": "Lawyer Up",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_party_hard",
+     "name": "Party Hard",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_heavy_lifting",
+     "name": "Heavy Lifting",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_photo_shoot",
+     "name": "Photo/Shoot",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_making_gainz",
+     "name": "Making Gainz",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_watch_it",
+     "name": "Watch It",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_cash_injections",
+     "name": "Cash Injections",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_amateur_hour",
+     "name": "Amateur Hour",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_dirty_work",
+     "name": "Dirty Work",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_too_much_baggage",
+     "name": "Too Much Baggage",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_adventures_in_babysitting",
+     "name": "Adventures in Babysitting",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_fresh_evidence",
+     "name": "Fresh Evidence",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_power_play",
+     "name": "Power Play",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_child_s_play",
+     "name": "Child's Play",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_headliners",
+     "name": "Headliners",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_close_surveillance",
+     "name": "Close Surveillance",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_delivery_method",
+     "name": "Delivery Method",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_team_building",
+     "name": "Team Building",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_fully_catered",
+     "name": "Fully Catered",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_vcia_takedown",
+     "name": "VCIA Takedown",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_sunset",
+     "name": "Sunset",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_starting_from_zero",
+     "name": "Starting from Zero",
+     "tip": "Chapter 4: Vice City, Baby!",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_bird_in_the_hand",
+     "name": "Bird in the Hand",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_taking_liberties",
+     "name": "Taking Liberties",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_vc_baby",
+     "name": "VC Baby",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_doggie_bag",
+     "name": "Doggie Bag",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_operation_savage_glory",
+     "name": "Operation Savage Glory",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_protective_custody",
+     "name": "Protective Custody",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_story_the_end_of_the_road",
+     "name": "The End of the Road",
+     "tip": "Chapter 5: Top of the World, Ma",
+     "added": "2026-11-22"
+    }
+   ]
+  },
+  {
+   "id": "vi_trophies",
+   "label": "GTA 6 trophies",
+   "icon": "trophies",
+   "items": [
+    {
+     "id": "vi_trophy_vice_got_a_price",
+     "name": "Vice Got a Price!",
+     "tip": "Platinum. Earn every other trophy. It unlocks last.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_just_like_paradise",
+     "name": "Just Like Paradise",
+     "tip": "Bronze. Finish the opening mission, Gone Fishing.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_paradise_lost",
+     "name": "Paradise Lost",
+     "tip": "Bronze. Finish Chapter 1.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_t_s_ass_drug_money",
+     "name": "T**s Ass Drug Money",
+     "tip": "Bronze. Finish Chapter 2.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_vice_city_baby",
+     "name": "Vice City, Baby!",
+     "tip": "Bronze. Finish Chapter 3.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_top_of_the_world_ma",
+     "name": "Top Of The World, Ma",
+     "tip": "Bronze. Finish Chapter 4.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_you_gotta_know_when_to_get_off",
+     "name": "You Gotta Know When to Get Off",
+     "tip": "Gold. Finish the final story mission.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_trust",
+     "name": "Trust",
+     "tip": "Bronze. Finish Breakfast Run.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_break_the_bank",
+     "name": "Break the Bank",
+     "tip": "Bronze. Finish The Cartel Heist.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_family_matters",
+     "name": "Family Matters",
+     "tip": "Bronze. Finish Child's Play.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_dwnfall",
+     "name": "DWNFALL",
+     "tip": "Bronze. Finish Headliners.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_hi_jacked",
+     "name": "Hi-Jacked",
+     "tip": "Bronze. Finish VCIA Takedown.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_snow_storm",
+     "name": "Snow Storm",
+     "tip": "Bronze. Finish Operation Savage Glory.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_a_long_road",
+     "name": "A Long Road",
+     "tip": "Gold. Reach 100% completion.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_cunning_stunts",
+     "name": "Cunning Stunts",
+     "tip": "Silver. Land 250 stunts across Leonida.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_master_of_none",
+     "name": "Master of None",
+     "tip": "Bronze. Try each of the 9 activity types once.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_the_shootist",
+     "name": "The Shootist",
+     "tip": "Silver. Win gold in all 42 shooting range challenges.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_top_fun",
+     "name": "Top Fun",
+     "tip": "Bronze. Win a Top Fun drone race at all 14 spots.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_earn_cash_not_kudos",
+     "name": "Earn Cash, Not Kudos",
+     "tip": "Bronze. Win 20 different races.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_baited_my_tackle",
+     "name": "Baited My Tackle",
+     "tip": "Bronze. Beat Cal in his fishing challenge.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_stick_fiddler",
+     "name": "Stick Fiddler",
+     "tip": "Bronze. Finish any arcade game.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_road_to_rehabilitation",
+     "name": "Road to Rehabilitation",
+     "tip": "Bronze. Finish Andy's last job.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_this_was_no_boat_accident",
+     "name": "This Was No Boat Accident",
+     "tip": "Bronze. Finish Kenton's last job.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_the_lone_rider",
+     "name": "The Lone Rider",
+     "tip": "Bronze. Finish Billy's last job.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_strangers_freaks",
+     "name": "Strangers & Freaks",
+     "tip": "Silver. Finish 8 stranger mission strands.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_supply_demand",
+     "name": "Supply & Demand",
+     "tip": "Bronze. Finish Randy's last job.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_spin_on_this",
+     "name": "Spin On This!",
+     "tip": "Bronze. Finish Tyrone's last job.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_positive_mental_attitude",
+     "name": "Positive Mental Attitude",
+     "tip": "Bronze. Meditate at all 18 spots.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_fair_game",
+     "name": "Fair Game",
+     "tip": "Bronze. Hunt a unique animal for Bret.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_don_t_touch_my_deck",
+     "name": "Don't Touch My Deck",
+     "tip": "Silver. Complete 3 collectible card sets.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_you_wainker",
+     "name": "You WAiNKer!",
+     "tip": "Silver. Use the WAiNK app at 100 spots.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_one_last_thing",
+     "name": "One Last Thing",
+     "tip": "Bronze. Complete 50 challenges.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_hot_together",
+     "name": "Hot Together",
+     "tip": "Bronze. With your partner, escape a 4-star wanted level.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_retail_therapy",
+     "name": "Retail Therapy",
+     "tip": "Bronze. With your partner, rob 3 shops in a row while wanted.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_whip_it_good",
+     "name": "Whip It Good",
+     "tip": "Bronze. Discover 100 different vehicles.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_gunslinger",
+     "name": "Gunslinger",
+     "tip": "Bronze. Kill 5 enemies in one Combat Focus.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_catch_me_if_you_can",
+     "name": "Catch Me If You Can",
+     "tip": "Bronze. Steal a passenger jet at VCIA and fly off.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_challenging_tank",
+     "name": "Challenging Tank",
+     "tip": "Bronze. Steal a Rhino tank and fight in it.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_sneakthief",
+     "name": "Sneakthief",
+     "tip": "Bronze. Rob a jewelry store without being seen.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_maximum_withdrawal",
+     "name": "Maximum Withdrawal",
+     "tip": "Silver. Rob 5 bank vaults and escape each time.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_a_classic_blitz_play",
+     "name": "A Classic Blitz Play",
+     "tip": "Bronze. Rob an armored truck and escape.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_the_goodtime_state",
+     "name": "The Goodtime State",
+     "tip": "Bronze. Uncover the whole Leonida map.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_pest_control",
+     "name": "Pest Control",
+     "tip": "Bronze. Rob one illegal operation from each of the 9 gangs.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_in_the_beginning",
+     "name": "In The Beginning...",
+     "tip": "Bronze. Have a cocktail overlooking Ocean Beach (not fully confirmed).",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_capital_offense",
+     "name": "Capital Offense",
+     "tip": "Bronze. Crash a car out of a showroom window (not fully confirmed).",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_let_s_go_bowling",
+     "name": "Let's Go Bowling",
+     "tip": "Bronze. Steal the 3 valuables at the bowling alley and escape.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_personal_best",
+     "name": "Personal Best",
+     "tip": "Bronze. Max out Strength for Jason and Lucia.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_actions_speak_louder",
+     "name": "Actions Speak Louder",
+     "tip": "Bronze. Do 500 actions that change your Criminal Profile.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_bad_luck_i_guess",
+     "name": "Bad Luck, I Guess",
+     "tip": "Bronze. How to unlock is not confirmed yet.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_the_truth_is_out_there",
+     "name": "The Truth Is Out There",
+     "tip": "Bronze. How to unlock is not confirmed yet.",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_ten_pin",
+     "name": "Ten Pin",
+     "tip": "Bronze. Knock someone down with a melee drive-by (not fully confirmed).",
+     "spoiler": true,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_dime_on_the_dollar",
+     "name": "Dime on the Dollar",
+     "tip": "Bronze. Launder $250,000 in Marked Bills.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_treat_yo_self",
+     "name": "Treat Yo Self",
+     "tip": "Bronze. Spend $100,000 in shops.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_little_boxes",
+     "name": "Little Boxes",
+     "tip": "Bronze. Buy all 8 garages.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    },
+    {
+     "id": "vi_trophy_on_the_spot",
+     "name": "On the Spot",
+     "tip": "Bronze. Register 10 vehicles with the Scooter Bros app.",
+     "spoiler": false,
+     "added": "2026-11-22"
+    }
+   ]
+  },
+  {
    "id": "story",
-   "label": "Story missions",
+   "label": "GTA 5 story missions",
    "icon": "story",
    "sample": true,
    "items": [
@@ -239,7 +1178,7 @@
   },
   {
    "id": "side",
-   "label": "Side missions",
+   "label": "GTA 5 side missions",
    "icon": "side",
    "sample": true,
    "items": [
@@ -322,7 +1261,7 @@
   },
   {
    "id": "collectibles",
-   "label": "Collectibles",
+   "label": "GTA 5 collectibles",
    "icon": "collectibles",
    "sample": true,
    "items": [
@@ -552,7 +1491,7 @@
   },
   {
    "id": "activities",
-   "label": "Activities",
+   "label": "GTA 5 activities",
    "icon": "activities",
    "sample": true,
    "items": [
@@ -660,7 +1599,7 @@
   },
   {
    "id": "trophies",
-   "label": "Trophies",
+   "label": "GTA 5 trophies",
    "icon": "trophies",
    "sample": true,
    "items": [
