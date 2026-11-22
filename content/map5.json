@@ -1,0 +1,1399 @@
+{
+ "version": 1,
+ "prelaunch": false,
+ "image": "",
+ "size": 8192,
+ "categories": [
+  {
+   "id": "area",
+   "label": "Areas",
+   "color": "#19E3D3"
+  },
+  {
+   "id": "spaceship",
+   "label": "Spaceship parts",
+   "color": "#5BE37D"
+  },
+  {
+   "id": "letter",
+   "label": "Letter scraps",
+   "color": "#FFD84D"
+  },
+  {
+   "id": "nuclear",
+   "label": "Nuclear waste",
+   "color": "#FF4D5E"
+  },
+  {
+   "id": "epsilon",
+   "label": "Epsilon tracts",
+   "color": "#29D3E8"
+  }
+ ],
+ "tiles": {
+  "url": "assets/tiles5/{z}/{x}/{y}.png",
+  "credit": "GTA V road map from the official game manual (Rockstar Games). Collectible positions: danharper/GTAV and Mobius1/collectathon.",
+  "unitPx": 8192,
+  "zoomOffset": 0,
+  "minZoom": 0,
+  "maxNativeZoom": 4,
+  "maxZoom": 6,
+  "bounds": [
+   1300,
+   300,
+   7300,
+   8150
+  ]
+ },
+ "pinSpace": "tiles",
+ "pins": [
+  {
+   "id": "s_spaceship_part_1",
+   "name": "Spaceship part #1",
+   "cat": "spaceship",
+   "x": 4046.0,
+   "y": 1292.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_2",
+   "name": "Spaceship part #2",
+   "cat": "spaceship",
+   "x": 5209.6,
+   "y": 1856.7,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_3",
+   "name": "Spaceship part #3",
+   "cat": "spaceship",
+   "x": 5369.4,
+   "y": 2393.9,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_4",
+   "name": "Spaceship part #4",
+   "cat": "spaceship",
+   "x": 6286.7,
+   "y": 2616.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_5",
+   "name": "Spaceship part #5",
+   "cat": "spaceship",
+   "x": 5422.5,
+   "y": 3044.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_6",
+   "name": "Spaceship part #6",
+   "cat": "spaceship",
+   "x": 4738.9,
+   "y": 2999.1,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_7",
+   "name": "Spaceship part #7",
+   "cat": "spaceship",
+   "x": 5029.3,
+   "y": 3252.6,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_8",
+   "name": "Spaceship part #8",
+   "cat": "spaceship",
+   "x": 5055.5,
+   "y": 3612.1,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_9",
+   "name": "Spaceship part #9",
+   "cat": "spaceship",
+   "x": 4343.0,
+   "y": 3646.9,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_10",
+   "name": "Spaceship part #10",
+   "cat": "spaceship",
+   "x": 3867.6,
+   "y": 4073.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_11",
+   "name": "Spaceship part #11",
+   "cat": "spaceship",
+   "x": 4294.6,
+   "y": 4315.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_12",
+   "name": "Spaceship part #12",
+   "cat": "spaceship",
+   "x": 4660.6,
+   "y": 4098.9,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_13",
+   "name": "Spaceship part #13",
+   "cat": "spaceship",
+   "x": 5837.9,
+   "y": 4096.6,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_14",
+   "name": "Spaceship part #14",
+   "cat": "spaceship",
+   "x": 5677.1,
+   "y": 5007.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_15",
+   "name": "Spaceship part #15",
+   "cat": "spaceship",
+   "x": 5056.8,
+   "y": 5164.9,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_16",
+   "name": "Spaceship part #16",
+   "cat": "spaceship",
+   "x": 4870.5,
+   "y": 5502.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_17",
+   "name": "Spaceship part #17",
+   "cat": "spaceship",
+   "x": 4570.5,
+   "y": 6252.5,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_18",
+   "name": "Spaceship part #18",
+   "cat": "spaceship",
+   "x": 4908.6,
+   "y": 6591.7,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_19",
+   "name": "Spaceship part #19",
+   "cat": "spaceship",
+   "x": 4808.2,
+   "y": 7373.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_20",
+   "name": "Spaceship part #20",
+   "cat": "spaceship",
+   "x": 4505.5,
+   "y": 7238.5,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_21",
+   "name": "Spaceship part #21",
+   "cat": "spaceship",
+   "x": 4174.6,
+   "y": 7650.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_22",
+   "name": "Spaceship part #22",
+   "cat": "spaceship",
+   "x": 3978.0,
+   "y": 7341.5,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_23",
+   "name": "Spaceship part #23",
+   "cat": "spaceship",
+   "x": 3998.9,
+   "y": 6918.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_24",
+   "name": "Spaceship part #24",
+   "cat": "spaceship",
+   "x": 2945.4,
+   "y": 7823.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_25",
+   "name": "Spaceship part #25",
+   "cat": "spaceship",
+   "x": 3944.2,
+   "y": 6477.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_26",
+   "name": "Spaceship part #26",
+   "cat": "spaceship",
+   "x": 3765.2,
+   "y": 6325.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_27",
+   "name": "Spaceship part #27",
+   "cat": "spaceship",
+   "x": 4065.2,
+   "y": 6009.1,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_28",
+   "name": "Spaceship part #28",
+   "cat": "spaceship",
+   "x": 3887.5,
+   "y": 5903.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_29",
+   "name": "Spaceship part #29",
+   "cat": "spaceship",
+   "x": 3859.0,
+   "y": 5899.6,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_30",
+   "name": "Spaceship part #30",
+   "cat": "spaceship",
+   "x": 3156.5,
+   "y": 6294.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_31",
+   "name": "Spaceship part #31",
+   "cat": "spaceship",
+   "x": 2969.6,
+   "y": 5874.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_32",
+   "name": "Spaceship part #32",
+   "cat": "spaceship",
+   "x": 3602.4,
+   "y": 5684.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_33",
+   "name": "Spaceship part #33",
+   "cat": "spaceship",
+   "x": 3483.1,
+   "y": 5629.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_34",
+   "name": "Spaceship part #34",
+   "cat": "spaceship",
+   "x": 2974.2,
+   "y": 5572.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_35",
+   "name": "Spaceship part #35",
+   "cat": "spaceship",
+   "x": 3768.8,
+   "y": 5110.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_36",
+   "name": "Spaceship part #36",
+   "cat": "spaceship",
+   "x": 3807.6,
+   "y": 4995.6,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_37",
+   "name": "Spaceship part #37",
+   "cat": "spaceship",
+   "x": 3485.4,
+   "y": 4807.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_38",
+   "name": "Spaceship part #38",
+   "cat": "spaceship",
+   "x": 2739.1,
+   "y": 4958.2,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_39",
+   "name": "Spaceship part #39",
+   "cat": "spaceship",
+   "x": 2489.2,
+   "y": 4618.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_40",
+   "name": "Spaceship part #40",
+   "cat": "spaceship",
+   "x": 1890.8,
+   "y": 4578.7,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_41",
+   "name": "Spaceship part #41",
+   "cat": "spaceship",
+   "x": 2464.7,
+   "y": 4256.3,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_42",
+   "name": "Spaceship part #42",
+   "cat": "spaceship",
+   "x": 2800.8,
+   "y": 4133.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_43",
+   "name": "Spaceship part #43",
+   "cat": "spaceship",
+   "x": 3494.7,
+   "y": 3585.9,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_44",
+   "name": "Spaceship part #44",
+   "cat": "spaceship",
+   "x": 3801.0,
+   "y": 3378.6,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_45",
+   "name": "Spaceship part #45",
+   "cat": "spaceship",
+   "x": 3366.1,
+   "y": 3182.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_46",
+   "name": "Spaceship part #46",
+   "cat": "spaceship",
+   "x": 2465.3,
+   "y": 2521.8,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_47",
+   "name": "Spaceship part #47",
+   "cat": "spaceship",
+   "x": 3402.9,
+   "y": 2617.0,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_48",
+   "name": "Spaceship part #48",
+   "cat": "spaceship",
+   "x": 2797.8,
+   "y": 1977.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_49",
+   "name": "Spaceship part #49",
+   "cat": "spaceship",
+   "x": 3419.4,
+   "y": 1813.4,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_spaceship_part_50",
+   "name": "Spaceship part #50",
+   "cat": "spaceship",
+   "x": 3500.7,
+   "y": 1536.5,
+   "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_1",
+   "name": "Letter scrap #1",
+   "cat": "letter",
+   "x": 3797.7,
+   "y": 1158.7,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_2",
+   "name": "Letter scrap #2",
+   "cat": "letter",
+   "x": 4727.9,
+   "y": 1231.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_3",
+   "name": "Letter scrap #3",
+   "cat": "letter",
+   "x": 4708.0,
+   "y": 1373.8,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_4",
+   "name": "Letter scrap #4",
+   "cat": "letter",
+   "x": 4998.1,
+   "y": 2197.8,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_5",
+   "name": "Letter scrap #5",
+   "cat": "letter",
+   "x": 6032.1,
+   "y": 2134.1,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_6",
+   "name": "Letter scrap #6",
+   "cat": "letter",
+   "x": 4640.1,
+   "y": 2704.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_7",
+   "name": "Letter scrap #7",
+   "cat": "letter",
+   "x": 4793.7,
+   "y": 3185.9,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_8",
+   "name": "Letter scrap #8",
+   "cat": "letter",
+   "x": 4611.6,
+   "y": 3560.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_9",
+   "name": "Letter scrap #9",
+   "cat": "letter",
+   "x": 4369.9,
+   "y": 3926.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_10",
+   "name": "Letter scrap #10",
+   "cat": "letter",
+   "x": 5784.5,
+   "y": 4078.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_11",
+   "name": "Letter scrap #11",
+   "cat": "letter",
+   "x": 5797.1,
+   "y": 4448.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_12",
+   "name": "Letter scrap #12",
+   "cat": "letter",
+   "x": 4206.1,
+   "y": 4739.1,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_13",
+   "name": "Letter scrap #13",
+   "cat": "letter",
+   "x": 4451.1,
+   "y": 5419.4,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_14",
+   "name": "Letter scrap #14",
+   "cat": "letter",
+   "x": 4480.3,
+   "y": 5667.7,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_15",
+   "name": "Letter scrap #15",
+   "cat": "letter",
+   "x": 3929.6,
+   "y": 5660.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_16",
+   "name": "Letter scrap #16",
+   "cat": "letter",
+   "x": 3811.0,
+   "y": 5814.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_17",
+   "name": "Letter scrap #17",
+   "cat": "letter",
+   "x": 3674.6,
+   "y": 6170.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_18",
+   "name": "Letter scrap #18",
+   "cat": "letter",
+   "x": 4179.9,
+   "y": 6208.9,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_19",
+   "name": "Letter scrap #19",
+   "cat": "letter",
+   "x": 5653.2,
+   "y": 6430.0,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_20",
+   "name": "Letter scrap #20",
+   "cat": "letter",
+   "x": 4754.1,
+   "y": 6920.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_21",
+   "name": "Letter scrap #21",
+   "cat": "letter",
+   "x": 4250.2,
+   "y": 7037.1,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_22",
+   "name": "Letter scrap #22",
+   "cat": "letter",
+   "x": 4434.5,
+   "y": 7514.7,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_23",
+   "name": "Letter scrap #23",
+   "cat": "letter",
+   "x": 3699.9,
+   "y": 7318.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_24",
+   "name": "Letter scrap #24",
+   "cat": "letter",
+   "x": 3804.0,
+   "y": 6822.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_25",
+   "name": "Letter scrap #25",
+   "cat": "letter",
+   "x": 3753.6,
+   "y": 6667.1,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_26",
+   "name": "Letter scrap #26",
+   "cat": "letter",
+   "x": 3144.9,
+   "y": 7187.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_27",
+   "name": "Letter scrap #27",
+   "cat": "letter",
+   "x": 3058.4,
+   "y": 7323.4,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_28",
+   "name": "Letter scrap #28",
+   "cat": "letter",
+   "x": 2838.3,
+   "y": 6450.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_29",
+   "name": "Letter scrap #29",
+   "cat": "letter",
+   "x": 3066.7,
+   "y": 6364.7,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_30",
+   "name": "Letter scrap #30",
+   "cat": "letter",
+   "x": 2546.2,
+   "y": 6317.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_31",
+   "name": "Letter scrap #31",
+   "cat": "letter",
+   "x": 2931.8,
+   "y": 5862.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_32",
+   "name": "Letter scrap #32",
+   "cat": "letter",
+   "x": 2610.2,
+   "y": 5658.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_33",
+   "name": "Letter scrap #33",
+   "cat": "letter",
+   "x": 1750.2,
+   "y": 5504.8,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_34",
+   "name": "Letter scrap #34",
+   "cat": "letter",
+   "x": 2226.0,
+   "y": 5386.9,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_35",
+   "name": "Letter scrap #35",
+   "cat": "letter",
+   "x": 3523.2,
+   "y": 5493.5,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_36",
+   "name": "Letter scrap #36",
+   "cat": "letter",
+   "x": 3661.4,
+   "y": 4959.9,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_37",
+   "name": "Letter scrap #37",
+   "cat": "letter",
+   "x": 2726.9,
+   "y": 4624.0,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_38",
+   "name": "Letter scrap #38",
+   "cat": "letter",
+   "x": 3467.2,
+   "y": 4482.0,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_39",
+   "name": "Letter scrap #39",
+   "cat": "letter",
+   "x": 3359.8,
+   "y": 4157.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_40",
+   "name": "Letter scrap #40",
+   "cat": "letter",
+   "x": 3873.3,
+   "y": 4044.4,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_41",
+   "name": "Letter scrap #41",
+   "cat": "letter",
+   "x": 3930.0,
+   "y": 3649.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_42",
+   "name": "Letter scrap #42",
+   "cat": "letter",
+   "x": 3562.0,
+   "y": 3660.7,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_43",
+   "name": "Letter scrap #43",
+   "cat": "letter",
+   "x": 3182.7,
+   "y": 3723.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_44",
+   "name": "Letter scrap #44",
+   "cat": "letter",
+   "x": 2175.6,
+   "y": 3786.6,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_45",
+   "name": "Letter scrap #45",
+   "cat": "letter",
+   "x": 2687.1,
+   "y": 2725.9,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_46",
+   "name": "Letter scrap #46",
+   "cat": "letter",
+   "x": 3752.6,
+   "y": 2685.2,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_47",
+   "name": "Letter scrap #47",
+   "cat": "letter",
+   "x": 3089.2,
+   "y": 2347.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_48",
+   "name": "Letter scrap #48",
+   "cat": "letter",
+   "x": 3369.7,
+   "y": 1941.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_49",
+   "name": "Letter scrap #49",
+   "cat": "letter",
+   "x": 4049.6,
+   "y": 1874.4,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_letter_scrap_50",
+   "name": "Letter scrap #50",
+   "cat": "letter",
+   "x": 3486.4,
+   "y": 1384.3,
+   "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_1",
+   "name": "Nuclear waste barrel #1",
+   "cat": "nuclear",
+   "x": 2802.1,
+   "y": 1736.0,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_2",
+   "name": "Nuclear waste barrel #2",
+   "cat": "nuclear",
+   "x": 2913.5,
+   "y": 1422.1,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_3",
+   "name": "Nuclear waste barrel #3",
+   "cat": "nuclear",
+   "x": 3238.4,
+   "y": 1117.0,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_4",
+   "name": "Nuclear waste barrel #4",
+   "cat": "nuclear",
+   "x": 4571.1,
+   "y": 884.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_5",
+   "name": "Nuclear waste barrel #5",
+   "cat": "nuclear",
+   "x": 4696.8,
+   "y": 1032.1,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_6",
+   "name": "Nuclear waste barrel #6",
+   "cat": "nuclear",
+   "x": 4877.5,
+   "y": 942.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_7",
+   "name": "Nuclear waste barrel #7",
+   "cat": "nuclear",
+   "x": 5402.9,
+   "y": 936.3,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_8",
+   "name": "Nuclear waste barrel #8",
+   "cat": "nuclear",
+   "x": 5554.7,
+   "y": 965.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_9",
+   "name": "Nuclear waste barrel #9",
+   "cat": "nuclear",
+   "x": 5765.6,
+   "y": 1232.1,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_10",
+   "name": "Nuclear waste barrel #10",
+   "cat": "nuclear",
+   "x": 5706.9,
+   "y": 1241.3,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_11",
+   "name": "Nuclear waste barrel #11",
+   "cat": "nuclear",
+   "x": 6502.6,
+   "y": 3019.7,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_12",
+   "name": "Nuclear waste barrel #12",
+   "cat": "nuclear",
+   "x": 6330.2,
+   "y": 3038.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_13",
+   "name": "Nuclear waste barrel #13",
+   "cat": "nuclear",
+   "x": 6289.7,
+   "y": 3083.4,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_14",
+   "name": "Nuclear waste barrel #14",
+   "cat": "nuclear",
+   "x": 5578.9,
+   "y": 6325.3,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_15",
+   "name": "Nuclear waste barrel #15",
+   "cat": "nuclear",
+   "x": 5867.4,
+   "y": 6623.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_16",
+   "name": "Nuclear waste barrel #16",
+   "cat": "nuclear",
+   "x": 5447.7,
+   "y": 7086.0,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_17",
+   "name": "Nuclear waste barrel #17",
+   "cat": "nuclear",
+   "x": 5181.8,
+   "y": 7384.1,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_18",
+   "name": "Nuclear waste barrel #18",
+   "cat": "nuclear",
+   "x": 4996.1,
+   "y": 7505.5,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_19",
+   "name": "Nuclear waste barrel #19",
+   "cat": "nuclear",
+   "x": 2531.6,
+   "y": 6356.5,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_20",
+   "name": "Nuclear waste barrel #20",
+   "cat": "nuclear",
+   "x": 2456.7,
+   "y": 6267.6,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_21",
+   "name": "Nuclear waste barrel #21",
+   "cat": "nuclear",
+   "x": 2212.0,
+   "y": 6216.4,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_22",
+   "name": "Nuclear waste barrel #22",
+   "cat": "nuclear",
+   "x": 2035.0,
+   "y": 5837.9,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_23",
+   "name": "Nuclear waste barrel #23",
+   "cat": "nuclear",
+   "x": 1736.0,
+   "y": 5668.7,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_24",
+   "name": "Nuclear waste barrel #24",
+   "cat": "nuclear",
+   "x": 1490.3,
+   "y": 4985.1,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_25",
+   "name": "Nuclear waste barrel #25",
+   "cat": "nuclear",
+   "x": 1645.5,
+   "y": 4118.2,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_26",
+   "name": "Nuclear waste barrel #26",
+   "cat": "nuclear",
+   "x": 1758.8,
+   "y": 3641.6,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_27",
+   "name": "Nuclear waste barrel #27",
+   "cat": "nuclear",
+   "x": 1474.4,
+   "y": 3516.0,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_28",
+   "name": "Nuclear waste barrel #28",
+   "cat": "nuclear",
+   "x": 1535.7,
+   "y": 3202.4,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_29",
+   "name": "Nuclear waste barrel #29",
+   "cat": "nuclear",
+   "x": 1850.0,
+   "y": 2729.5,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_nuclear_waste_barrel_30",
+   "name": "Nuclear waste barrel #30",
+   "cat": "nuclear",
+   "x": 1824.8,
+   "y": 2771.8,
+   "tip": "Underwater barrel. Use the submarine from the Docks.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_1",
+   "name": "Epsilon tract #1",
+   "cat": "epsilon",
+   "x": 4086.4,
+   "y": 1853.4,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_2",
+   "name": "Epsilon tract #2",
+   "cat": "epsilon",
+   "x": 5516.0,
+   "y": 6422.4,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_3",
+   "name": "Epsilon tract #3",
+   "cat": "epsilon",
+   "x": 3770.2,
+   "y": 514.8,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_4",
+   "name": "Epsilon tract #4",
+   "cat": "epsilon",
+   "x": 3578.9,
+   "y": 2427.0,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_5",
+   "name": "Epsilon tract #5",
+   "cat": "epsilon",
+   "x": 3241.7,
+   "y": 5979.0,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_6",
+   "name": "Epsilon tract #6",
+   "cat": "epsilon",
+   "x": 2689.4,
+   "y": 2081.3,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_7",
+   "name": "Epsilon tract #7",
+   "cat": "epsilon",
+   "x": 2557.1,
+   "y": 5264.6,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_8",
+   "name": "Epsilon tract #8",
+   "cat": "epsilon",
+   "x": 4074.5,
+   "y": 1844.8,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_9",
+   "name": "Epsilon tract #9",
+   "cat": "epsilon",
+   "x": 3703.9,
+   "y": 6067.2,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "s_epsilon_tract_10",
+   "name": "Epsilon tract #10",
+   "cat": "epsilon",
+   "x": 2609.5,
+   "y": 5654.2,
+   "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+   "confirms": 2
+  },
+  {
+   "id": "v_area_los_santos",
+   "name": "Downtown LS",
+   "cat": "area",
+   "x": 3654.1,
+   "y": 6087.2,
+   "tip": "Skyscrapers, Maze Bank Tower and the city centre."
+  },
+  {
+   "id": "v_area_vespucci",
+   "name": "Vespucci",
+   "cat": "area",
+   "x": 2891.6,
+   "y": 6349.6,
+   "tip": "Beaches, the pier and canals on the west coast."
+  },
+  {
+   "id": "v_area_south_ls",
+   "name": "South LS",
+   "cat": "area",
+   "x": 3853.1,
+   "y": 7038.4,
+   "tip": "Gang streets, the port and the airport side."
+  },
+  {
+   "id": "v_area_vinewood_hills",
+   "name": "Vinewood Hills",
+   "cat": "area",
+   "x": 3621.0,
+   "y": 5037.6,
+   "tip": "The sign, mansions and the observatory."
+  },
+  {
+   "id": "v_area_east",
+   "name": "Tataviam",
+   "cat": "area",
+   "x": 5278.6,
+   "y": 5726.4,
+   "tip": "Eastern hills, the dam and the coast."
+  },
+  {
+   "id": "v_area_tongva",
+   "name": "Tongva Hills",
+   "cat": "area",
+   "x": 2493.8,
+   "y": 4086.4,
+   "tip": "Western hills, the wine country and the canyon."
+  },
+  {
+   "id": "v_area_zancudo",
+   "name": "Fort Zancudo",
+   "cat": "area",
+   "x": 2228.6,
+   "y": 3561.6,
+   "tip": "The army base and the river delta."
+  },
+  {
+   "id": "v_area_sandy",
+   "name": "Sandy Shores",
+   "cat": "area",
+   "x": 4947.1,
+   "y": 3102.4,
+   "tip": "Trevor territory by the Alamo Sea."
+  },
+  {
+   "id": "v_area_grapeseed",
+   "name": "Grapeseed",
+   "cat": "area",
+   "x": 5344.9,
+   "y": 2315.2,
+   "tip": "Farmland in the north-east and the coast."
+  },
+  {
+   "id": "v_area_chiliad",
+   "name": "Mount Chiliad",
+   "cat": "area",
+   "x": 4085.1,
+   "y": 1856.0,
+   "tip": "The tallest mountain, with a cable car to the top."
+  },
+  {
+   "id": "v_area_paleto",
+   "name": "Paleto Bay",
+   "cat": "area",
+   "x": 3554.7,
+   "y": 1396.8,
+   "tip": "The small northern town and the woods."
+  }
+ ]
+}

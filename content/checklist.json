@@ -1,5 +1,5 @@
 {
- "version": 3,
+ "version": 4,
  "categories": [
   {
    "id": "vi_story",
@@ -1268,224 +1268,1011 @@
     {
      "id": "s_spaceship_part_1",
      "name": "Spaceship part #1",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_1"
     },
     {
      "id": "s_spaceship_part_2",
      "name": "Spaceship part #2",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_2"
     },
     {
      "id": "s_spaceship_part_3",
      "name": "Spaceship part #3",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_3"
     },
     {
      "id": "s_spaceship_part_4",
      "name": "Spaceship part #4",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_4"
     },
     {
      "id": "s_spaceship_part_5",
      "name": "Spaceship part #5",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_5"
     },
     {
      "id": "s_spaceship_part_6",
      "name": "Spaceship part #6",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_6"
     },
     {
      "id": "s_spaceship_part_7",
      "name": "Spaceship part #7",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_7"
     },
     {
      "id": "s_spaceship_part_8",
      "name": "Spaceship part #8",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_8"
     },
     {
      "id": "s_spaceship_part_9",
      "name": "Spaceship part #9",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_9"
     },
     {
      "id": "s_spaceship_part_10",
      "name": "Spaceship part #10",
-     "tip": "Glowing ship part. Walk into it to collect.",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
      "pinId": "s_spaceship_part_10"
+    },
+    {
+     "id": "s_spaceship_part_11",
+     "name": "Spaceship part #11",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_11",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_12",
+     "name": "Spaceship part #12",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_12",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_13",
+     "name": "Spaceship part #13",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_13",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_14",
+     "name": "Spaceship part #14",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_14",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_15",
+     "name": "Spaceship part #15",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_15",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_16",
+     "name": "Spaceship part #16",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_16",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_17",
+     "name": "Spaceship part #17",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_17",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_18",
+     "name": "Spaceship part #18",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_18",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_19",
+     "name": "Spaceship part #19",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_19",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_20",
+     "name": "Spaceship part #20",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_20",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_21",
+     "name": "Spaceship part #21",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_21",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_22",
+     "name": "Spaceship part #22",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_22",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_23",
+     "name": "Spaceship part #23",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_23",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_24",
+     "name": "Spaceship part #24",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_24",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_25",
+     "name": "Spaceship part #25",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_25",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_26",
+     "name": "Spaceship part #26",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_26",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_27",
+     "name": "Spaceship part #27",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_27",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_28",
+     "name": "Spaceship part #28",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_28",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_29",
+     "name": "Spaceship part #29",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_29",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_30",
+     "name": "Spaceship part #30",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_30",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_31",
+     "name": "Spaceship part #31",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_31",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_32",
+     "name": "Spaceship part #32",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_32",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_33",
+     "name": "Spaceship part #33",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_33",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_34",
+     "name": "Spaceship part #34",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_34",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_35",
+     "name": "Spaceship part #35",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_35",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_36",
+     "name": "Spaceship part #36",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_36",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_37",
+     "name": "Spaceship part #37",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_37",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_38",
+     "name": "Spaceship part #38",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_38",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_39",
+     "name": "Spaceship part #39",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_39",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_40",
+     "name": "Spaceship part #40",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_40",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_41",
+     "name": "Spaceship part #41",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_41",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_42",
+     "name": "Spaceship part #42",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_42",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_43",
+     "name": "Spaceship part #43",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_43",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_44",
+     "name": "Spaceship part #44",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_44",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_45",
+     "name": "Spaceship part #45",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_45",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_46",
+     "name": "Spaceship part #46",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_46",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_47",
+     "name": "Spaceship part #47",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_47",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_48",
+     "name": "Spaceship part #48",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_48",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_49",
+     "name": "Spaceship part #49",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_49",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_spaceship_part_50",
+     "name": "Spaceship part #50",
+     "tip": "Glowing ship part. Walk into it to collect. Unlocks after meeting Omega.",
+     "pinId": "s_spaceship_part_50",
+     "added": "2026-11-23"
     },
     {
      "id": "s_letter_scrap_1",
      "name": "Letter scrap #1",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_1"
     },
     {
      "id": "s_letter_scrap_2",
      "name": "Letter scrap #2",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_2"
     },
     {
      "id": "s_letter_scrap_3",
      "name": "Letter scrap #3",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_3"
     },
     {
      "id": "s_letter_scrap_4",
      "name": "Letter scrap #4",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_4"
     },
     {
      "id": "s_letter_scrap_5",
      "name": "Letter scrap #5",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_5"
     },
     {
      "id": "s_letter_scrap_6",
      "name": "Letter scrap #6",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_6"
     },
     {
      "id": "s_letter_scrap_7",
      "name": "Letter scrap #7",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_7"
     },
     {
      "id": "s_letter_scrap_8",
      "name": "Letter scrap #8",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_8"
     },
     {
      "id": "s_letter_scrap_9",
      "name": "Letter scrap #9",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_9"
     },
     {
      "id": "s_letter_scrap_10",
      "name": "Letter scrap #10",
-     "tip": "Torn page stuck to a wall or post.",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
      "pinId": "s_letter_scrap_10"
     },
     {
-     "id": "s_submarine_part_1",
-     "name": "Submarine part #1",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_1"
+     "id": "s_letter_scrap_11",
+     "name": "Letter scrap #11",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_11",
+     "added": "2026-11-23"
     },
     {
-     "id": "s_submarine_part_2",
-     "name": "Submarine part #2",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_2"
+     "id": "s_letter_scrap_12",
+     "name": "Letter scrap #12",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_12",
+     "added": "2026-11-23"
     },
     {
-     "id": "s_submarine_part_3",
-     "name": "Submarine part #3",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_3"
+     "id": "s_letter_scrap_13",
+     "name": "Letter scrap #13",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_13",
+     "added": "2026-11-23"
     },
     {
-     "id": "s_submarine_part_4",
-     "name": "Submarine part #4",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_4"
+     "id": "s_letter_scrap_14",
+     "name": "Letter scrap #14",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_14",
+     "added": "2026-11-23"
     },
     {
-     "id": "s_submarine_part_5",
-     "name": "Submarine part #5",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_5"
+     "id": "s_letter_scrap_15",
+     "name": "Letter scrap #15",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_15",
+     "added": "2026-11-23"
     },
     {
-     "id": "s_submarine_part_6",
-     "name": "Submarine part #6",
-     "tip": "On the sea floor. Needs a sub or diving gear.",
-     "pinId": "s_submarine_part_6"
+     "id": "s_letter_scrap_16",
+     "name": "Letter scrap #16",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_16",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_17",
+     "name": "Letter scrap #17",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_17",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_18",
+     "name": "Letter scrap #18",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_18",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_19",
+     "name": "Letter scrap #19",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_19",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_20",
+     "name": "Letter scrap #20",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_20",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_21",
+     "name": "Letter scrap #21",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_21",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_22",
+     "name": "Letter scrap #22",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_22",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_23",
+     "name": "Letter scrap #23",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_23",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_24",
+     "name": "Letter scrap #24",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_24",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_25",
+     "name": "Letter scrap #25",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_25",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_26",
+     "name": "Letter scrap #26",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_26",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_27",
+     "name": "Letter scrap #27",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_27",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_28",
+     "name": "Letter scrap #28",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_28",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_29",
+     "name": "Letter scrap #29",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_29",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_30",
+     "name": "Letter scrap #30",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_30",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_31",
+     "name": "Letter scrap #31",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_31",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_32",
+     "name": "Letter scrap #32",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_32",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_33",
+     "name": "Letter scrap #33",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_33",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_34",
+     "name": "Letter scrap #34",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_34",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_35",
+     "name": "Letter scrap #35",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_35",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_36",
+     "name": "Letter scrap #36",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_36",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_37",
+     "name": "Letter scrap #37",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_37",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_38",
+     "name": "Letter scrap #38",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_38",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_39",
+     "name": "Letter scrap #39",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_39",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_40",
+     "name": "Letter scrap #40",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_40",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_41",
+     "name": "Letter scrap #41",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_41",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_42",
+     "name": "Letter scrap #42",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_42",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_43",
+     "name": "Letter scrap #43",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_43",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_44",
+     "name": "Letter scrap #44",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_44",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_45",
+     "name": "Letter scrap #45",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_45",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_46",
+     "name": "Letter scrap #46",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_46",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_47",
+     "name": "Letter scrap #47",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_47",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_48",
+     "name": "Letter scrap #48",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_48",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_49",
+     "name": "Letter scrap #49",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_49",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_letter_scrap_50",
+     "name": "Letter scrap #50",
+     "tip": "Torn paper on the ground or a wall. Walk over it to collect.",
+     "pinId": "s_letter_scrap_50",
+     "added": "2026-11-23"
     },
     {
      "id": "s_nuclear_waste_barrel_1",
      "name": "Nuclear waste barrel #1",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_1"
     },
     {
      "id": "s_nuclear_waste_barrel_2",
      "name": "Nuclear waste barrel #2",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_2"
     },
     {
      "id": "s_nuclear_waste_barrel_3",
      "name": "Nuclear waste barrel #3",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_3"
     },
     {
      "id": "s_nuclear_waste_barrel_4",
      "name": "Nuclear waste barrel #4",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_4"
     },
     {
      "id": "s_nuclear_waste_barrel_5",
      "name": "Nuclear waste barrel #5",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_5"
     },
     {
      "id": "s_nuclear_waste_barrel_6",
      "name": "Nuclear waste barrel #6",
-     "tip": "Floating underwater near the coast.",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
      "pinId": "s_nuclear_waste_barrel_6"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_7",
+     "name": "Nuclear waste barrel #7",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_7",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_8",
+     "name": "Nuclear waste barrel #8",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_8",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_9",
+     "name": "Nuclear waste barrel #9",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_9",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_10",
+     "name": "Nuclear waste barrel #10",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_10",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_11",
+     "name": "Nuclear waste barrel #11",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_11",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_12",
+     "name": "Nuclear waste barrel #12",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_12",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_13",
+     "name": "Nuclear waste barrel #13",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_13",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_14",
+     "name": "Nuclear waste barrel #14",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_14",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_15",
+     "name": "Nuclear waste barrel #15",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_15",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_16",
+     "name": "Nuclear waste barrel #16",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_16",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_17",
+     "name": "Nuclear waste barrel #17",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_17",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_18",
+     "name": "Nuclear waste barrel #18",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_18",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_19",
+     "name": "Nuclear waste barrel #19",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_19",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_20",
+     "name": "Nuclear waste barrel #20",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_20",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_21",
+     "name": "Nuclear waste barrel #21",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_21",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_22",
+     "name": "Nuclear waste barrel #22",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_22",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_23",
+     "name": "Nuclear waste barrel #23",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_23",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_24",
+     "name": "Nuclear waste barrel #24",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_24",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_25",
+     "name": "Nuclear waste barrel #25",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_25",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_26",
+     "name": "Nuclear waste barrel #26",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_26",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_27",
+     "name": "Nuclear waste barrel #27",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_27",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_28",
+     "name": "Nuclear waste barrel #28",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_28",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_29",
+     "name": "Nuclear waste barrel #29",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_29",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_nuclear_waste_barrel_30",
+     "name": "Nuclear waste barrel #30",
+     "tip": "Underwater barrel. Use the submarine from the Docks.",
+     "pinId": "s_nuclear_waste_barrel_30",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_1",
+     "name": "Epsilon tract #1",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_1",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_2",
+     "name": "Epsilon tract #2",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_2",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_3",
+     "name": "Epsilon tract #3",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_3",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_4",
+     "name": "Epsilon tract #4",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_4",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_5",
+     "name": "Epsilon tract #5",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_5",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_6",
+     "name": "Epsilon tract #6",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_6",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_7",
+     "name": "Epsilon tract #7",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_7",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_8",
+     "name": "Epsilon tract #8",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_8",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_9",
+     "name": "Epsilon tract #9",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_9",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_epsilon_tract_10",
+     "name": "Epsilon tract #10",
+     "tip": "Small yellow leaflet. Unlocks during the Epsilon missions.",
+     "pinId": "s_epsilon_tract_10",
+     "added": "2026-11-23"
+    },
+    {
+     "id": "s_submarine_part_1",
+     "name": "Submarine part #1",
+     "tip": "On the sea floor. Needs a sub or diving gear."
+    },
+    {
+     "id": "s_submarine_part_2",
+     "name": "Submarine part #2",
+     "tip": "On the sea floor. Needs a sub or diving gear."
+    },
+    {
+     "id": "s_submarine_part_3",
+     "name": "Submarine part #3",
+     "tip": "On the sea floor. Needs a sub or diving gear."
+    },
+    {
+     "id": "s_submarine_part_4",
+     "name": "Submarine part #4",
+     "tip": "On the sea floor. Needs a sub or diving gear."
+    },
+    {
+     "id": "s_submarine_part_5",
+     "name": "Submarine part #5",
+     "tip": "On the sea floor. Needs a sub or diving gear."
+    },
+    {
+     "id": "s_submarine_part_6",
+     "name": "Submarine part #6",
+     "tip": "On the sea floor. Needs a sub or diving gear."
     },
     {
      "id": "s_peyote_plant_1",
      "name": "Peyote plant #1",
-     "tip": "Small plant on the ground. Eat it for a trip.",
-     "pinId": "s_peyote_plant_1"
+     "tip": "Small plant on the ground. Eat it for a trip."
     },
     {
      "id": "s_peyote_plant_2",
      "name": "Peyote plant #2",
-     "tip": "Small plant on the ground. Eat it for a trip.",
-     "pinId": "s_peyote_plant_2"
+     "tip": "Small plant on the ground. Eat it for a trip."
     },
     {
      "id": "s_peyote_plant_3",
      "name": "Peyote plant #3",
-     "tip": "Small plant on the ground. Eat it for a trip.",
-     "pinId": "s_peyote_plant_3"
+     "tip": "Small plant on the ground. Eat it for a trip."
     },
     {
      "id": "s_peyote_plant_4",
      "name": "Peyote plant #4",
-     "tip": "Small plant on the ground. Eat it for a trip.",
-     "pinId": "s_peyote_plant_4"
+     "tip": "Small plant on the ground. Eat it for a trip."
     },
     {
      "id": "s_peyote_plant_5",
      "name": "Peyote plant #5",
-     "tip": "Small plant on the ground. Eat it for a trip.",
-     "pinId": "s_peyote_plant_5"
+     "tip": "Small plant on the ground. Eat it for a trip."
     }
    ]
   },
